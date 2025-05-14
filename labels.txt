@@ -1,0 +1,9 @@
+# ID to label mapping
+id2label = {
+    "0": "Advertisement-Doc",
+    "1": "Hand-Written-Doc",
+    "2": "Invoice-Doc",
+    "3": "Letter-Doc",
+    "4": "News-Article-Doc",
+    "5": "Resume-Doc"
+}
